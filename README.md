@@ -25,9 +25,9 @@ i´m work as fronend developer 🗡
 <h3>DIAGNOSTIC ⚙</h3>
 <div align="center" tyle="display: inline_block">
   <a href="https://github.com/DanielcodeLenoz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielcodeLenoz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielcodeLenoz&show_icons=true&locale=en&layout=compact&theme=blue-green&line_height=0" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielcodeLenoz&layout=compact&langs_count=7&theme=blue-green"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielcodeLenoz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielcodeLenoz&show_icons=true&locale=en&layout=compact&theme=blue-green&line_height=0" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielcodeLenoz&layout=compact&langs_count=7&theme=blue-green"/> 
 </div>
 
 <!--
