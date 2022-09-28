@@ -5,11 +5,7 @@
 >
 </div>
 
-<h3>apprenticeship 🏆🏹</h3>
-i´m learnig platzi 📚
-</br>
-i´m work as fronend developer 🗡
-</br>
+<p>I´m a Front-end Developer, Designer UI and creator of personal blogs, technology development conferences and IT/ICT. I´m focused on Wisdom and creative growth.</p>
 
 <h3>ACQUIRED TECHONOLOGIES ⚙</h3>
 <div style="display: inline_block">
