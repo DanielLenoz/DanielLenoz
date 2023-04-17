@@ -1,9 +1,10 @@
 
 <div align="center">
   <h2>hello my name´s Daniel </h2>
-  <img align="center" alt="Rafa-Js" width="90" src="https://user-images.githubusercontent.com/98136538/151261519-f72fe2ff-bae0-46ee-a5c0-6c8eaab7e90c.png"
+  <img align="center" alt="Rafa-Js" width="250" src="https://user-images.githubusercontent.com/98136538/232597416-94f06773-1730-4520-b99d-064515330b09.png"
 >
 </div>
+
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BBHi%2C+Soy+Daniel+Rodriguez👨‍💻;👨‍🚀Programador+Front-end🌟;👨‍🎨+Desiner+UI🛸)](https://git.io/typing-svg)
