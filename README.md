@@ -5,9 +5,10 @@
 >
 </div>
 
-
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BBHi%2C+Soy+Daniel+Rodriguez👨‍💻;👨‍🚀Programador+Front-end🌟;👨‍🎨+Desiner+UI🛸)](https://git.io/typing-svg)
+> Soy Front-end Developer y Designer UI, creación de blogs y asistencia a conferencias de tecnología. Estudiante en Platzi, trabajo de forma remota. Busco oportunidades en proyectos innovadores y colaboraciones en el campo del desarrollo Front-end y Diseño UI. ¡Contáctame y hablemos! y creemos un proyecto grandioso 
+
 
 **`Pro-Dev | Sci-Tech`**
 
