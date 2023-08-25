@@ -26,7 +26,7 @@
   <img align="center" alt="tailwind" width="50" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/bcea025e-0792-4422-a3e0-e848a30e4402" />
   <img align="center" alt="vite"  width="50" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/c99a697e-753d-4dbe-b3d0-8a5fd003b691" />
   <img align="center" alt="npm"  width="80" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/99d5bd88-d6e4-4ba8-8bf3-8b8346668e7d" />
-  <img align="center" alt="Node-js"  width="150" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/cd4c6c95-fd94-4c71-be26-27041bb1c4c5" />
+  <img align="center" alt="Node-js"  width="50" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/8b5bedbd-40b2-402f-8753-21fcfacdb5c8" />
   <img align="center" alt="git"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="github" width="50" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/8c0947d1-84c1-4a6e-8344-5fe62eb8cfd0" />
 </div>
