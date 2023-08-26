@@ -29,6 +29,7 @@
   <img align="center" alt="Node-js"  width="50" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/8b5bedbd-40b2-402f-8753-21fcfacdb5c8" />
   <img align="center" alt="git"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="github" width="50" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/8c0947d1-84c1-4a6e-8344-5fe62eb8cfd0" />
+  <img align="center" alt="Figma" width="30" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/bcb99667-4cd6-4640-a2dc-4c5752a36483" />
 </div>
 <br>
 
