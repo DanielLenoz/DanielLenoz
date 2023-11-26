@@ -1,11 +1,7 @@
-# 
-
-
+<h1 align="center">
+    <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>Daniel Steven Rodriguez Verano
+</h1>
 <div align="center">
-  <div diplay="grid" >
-    <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> </picture> <h1>Daniel Steven Rodriguez Verano</h1> 
-  </div>
-  
   <img align="center" alt="Rafa-Js" width="250" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/ba7578fa-c83f-4d34-adc5-19e8e722e32a">
 </div>
 
