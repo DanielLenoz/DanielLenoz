@@ -1,8 +1,12 @@
+# 
+
 
 <div align="center">
-  <h2>hello my name´s Daniel </h2>
-  <img align="center" alt="Rafa-Js" width="250" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/ba7578fa-c83f-4d34-adc5-19e8e722e32a"
->
+  <div diplay="grid" >
+    <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> </picture> <h1>Daniel Steven Rodriguez Verano</h1> 
+  </div>
+  
+  <img align="center" alt="Rafa-Js" width="250" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/ba7578fa-c83f-4d34-adc5-19e8e722e32a">
 </div>
 
 <!--   my-ticker -->    
@@ -16,8 +20,9 @@
 
 **`(Programmer / Front-end Dev / Designer UI)`**
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Stack:</b>
 
-<h3>ACQUIRED TECHONOLOGIES ⚙</h3>
 <div style="display: inline_block">
   <img align="center" alt="Rafa-HTML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -37,4 +42,8 @@
 <div align="center" tyle="display: inline_block">
   <a href="https://github.com/DanielLenoz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLenoz&layout=compact&langs_count=7&theme=blue-green"/> 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <img align="right" alt="Coding" width="350" src="https://th.bing.com/th/id/R.c99e353f761d318322c853c03ebcf21b?rik=nVPq4K7T5nq97g&pid=ImgRaw&r=0">
 </div>
+
