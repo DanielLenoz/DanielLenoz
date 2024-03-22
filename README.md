@@ -2,9 +2,9 @@
     <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>Daniel Steven Rodriguez Verano
 </h1>
 <div align="center">
-  <img width="350" height="280" alt="Circuit-PNG-Background 1" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/7ebf72be-1bd0-4463-9990-00e86d64e6b1">
-  <img width="250" alt="logo raojo 2" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/6c685606-2ee8-46c6-ab09-55a6c8c45cf5">
-  <img width="350" height="280" alt="Circuit-PNG-Background 2" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/b6d8c678-b445-4842-9463-bca8c10f7e92">
+  <img width="300" height="200" alt="Circuit-PNG-Background 1" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/7ebf72be-1bd0-4463-9990-00e86d64e6b1">
+  <img width="200" alt="logo raojo 2" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/6c685606-2ee8-46c6-ab09-55a6c8c45cf5">
+  <img width="300" height="200" alt="Circuit-PNG-Background 2" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/b6d8c678-b445-4842-9463-bca8c10f7e92">
 </div>
 
 <!--   my-ticker -->    
