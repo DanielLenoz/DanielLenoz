@@ -14,7 +14,7 @@
 
 **`Pro-Dev | Sci-Tech`**
 
-**Links: https://daniellenoz.github.io/Links_redes/**
+**Links: https://danielcreator.vercel.app**
 
 **`(Programmer / Front-end Dev / Designer UI)`**
 
