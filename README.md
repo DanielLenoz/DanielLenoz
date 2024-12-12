@@ -9,7 +9,13 @@
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BBHi%2C+Soy+Daniel+Rodriguez👨‍💻;👨‍🚀Programador+Front-end🌟;👨‍🎨+Desiner+UI🛸)](https://git.io/typing-svg)
->Soy un apasionado desarrollador front-end y diseñador UI especializado en la creación de productos web innovadores y atractivos. Mi experiencia con herramientas como Figma,   Nextjs, React, Vite, Tailwind CSS, npm, Git y GitHub me capacita para desarrollar aplicaciones web y móviles que brindan experiencias de usuario excepcionales. Siempre estoy comprometido en mejorar mis habilidades y conocimientos para ofrecer lo mejor a mis clientes en el emocionante mundo del diseño y desarrollo web. ¡Conectemos y conversemos sobre cómo puedo contribuir a tu próximo proyecto! 
+>Desarrollador front-end con 2 años de experiencia y nivel de inglés
+B2, especializado en la creación interfaces dinámicas, accesibles
+y responsivas. Conocimientos en JavaScript, Python y frameworks
+modernos como GIT, GitHub, React, Next.js y FastAPI. Enfocado en
+usabilidad, rendimiento y soluciones innovadoras, colaboro
+eficazmente con equipos para cumplir objetivos. Apasionado por el
+aprendizaje continuo y las mejores prácticas del desarrollo web. 
 
 
 **`Pro-Dev | Sci-Tech`**
