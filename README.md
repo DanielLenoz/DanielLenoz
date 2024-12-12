@@ -1,5 +1,5 @@
 <h1 align="center">
-    <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>Daniel Steven Rodriguez Verano
+    Daniel Steven Rodriguez Verano
 </h1>
 <div align="center">
   <img width="300" height="200" alt="Circuit-PNG-Background 1" src="https://github.com/DanielLenoz/DanielLenoz/assets/98136538/7ebf72be-1bd0-4463-9990-00e86d64e6b1">
@@ -14,7 +14,9 @@
 
 **`Pro-Dev | Sci-Tech`**
 
-**Links: https://danielcreator.vercel.app**
+**Links [CV](https://drive.google.com/file/d/1Y_7Wp-IvsjitqIIWxhqmCBK2UUBNBM3t/view?usp=sharing)**
+
+**Sitio web: [DanielLenoz](https://daniellenozweb.vercel.app)**
 
 **`(Programmer / Front-end Dev / Designer UI)`**
 
