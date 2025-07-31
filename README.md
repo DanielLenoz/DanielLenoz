@@ -20,7 +20,7 @@ aprendizaje continuo y las mejores prácticas del desarrollo web.
 
 **`Pro-Dev | Sci-Tech`**
 
-**Links [CV](https://drive.google.com/file/d/1Y_7Wp-IvsjitqIIWxhqmCBK2UUBNBM3t/view?usp=sharing)**
+**Links [CV](https://drive.google.com/file/d/1I31__IEsIpJuytcSUDi-BULXBW8HBrWn/view?usp=sharing)**
 
 **Sitio web: [DanielLenoz](https://daniellenozweb.vercel.app)**
 
